@@ -8,7 +8,7 @@
     "bootstrap": "^4.3.0",
     "bootstrap-datetimepicker-npm": "^4.17.37-npm",
     "bootstrap-select": "^1.13.5",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.27.10",
     "moment": "^2.24.0",
     "npm": "^6.7.0",
     "pretty-checkbox": "^3.0.3",
